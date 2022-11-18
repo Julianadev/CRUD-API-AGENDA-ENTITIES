@@ -29,3 +29,6 @@ Requisições para a API devem seguir os padrões:
 |  PUT  | Atualiza dados de um registro ou altera sua situação. |
 |  DELETE | Remove um registro do sistema. |
 
+
+# Executar 🚀  
+<p> dotnet watch run
